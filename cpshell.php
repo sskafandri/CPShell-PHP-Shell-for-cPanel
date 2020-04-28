@@ -55,8 +55,6 @@ $iporhostname = '';
 
 // Don't edit the code below if you don't know what you are doing.
 
-ini_set('allow_url_fopen',1);
-
 if($er == 1) {
 	
 	ini_set('display_errors',1);
